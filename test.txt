@@ -18,3 +18,7 @@ Exploit ==>
 
 My target site ==>
 https://repository.akfarsam.ac.id/admin/modules/bibliography/pop_attach.php
+
+
+Tools link ==> 
+https://github.com/Odiq1337/slimass
